@@ -4,5 +4,6 @@
   "steps to reproduce":"1.Open Home page, 2.Pay attention to the Add button",
   "expected result":"The Add button is active",
   "actual result":"The Add button is inactive",
-  "priopity":"High"
+  "priority":"High",
+  "severity":"High"
 }
